@@ -24,7 +24,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 ### Task 2: Project Requirements (MVP)
 
-Your finished project must include all of the following requirements:
+Your finished project must include all the following requirements:
 
 #### NPM Scripts
 
@@ -144,7 +144,8 @@ We have provided test data for all the resources.
 
 ## Interview Questions
 
-Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
+Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics.
+You might prepare by writing down your own answers beforehand.
 
 1. The core features of Node.js and Express and why they are useful.
 1. Understand and explain the use of Middleware.
